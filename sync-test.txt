@@ -1,0 +1,1 @@
+Sync test file for verifying pull/clone synchronization.
